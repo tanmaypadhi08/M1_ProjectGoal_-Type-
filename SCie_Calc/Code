@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
-int main(void) {
+int main(void) 
+{
 int choice, i, a, b;
 float x, y, result;
 
