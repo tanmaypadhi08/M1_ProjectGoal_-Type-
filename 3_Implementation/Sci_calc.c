@@ -7,7 +7,7 @@ int choice, i, a, b;
 float x, y, result;
 
 do {
-printf("\nSelect your operation (0 to exit):\n");       // You can assume this as a file handing project because the data is stored and then the next step is based on previous step. 
+printf("\nSelect your operation \n (0 to exit):\n");       // You can assume this as a file handing project because the data is stored and then the next step is based on previous step. 
 printf("1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n");
 printf("5. Square root\n6. X ^ Y\n7. X ^ 2\n8. X ^ 3\n");
 printf("9. 1 / X\n10. X ^ (1 / Y)\n11. X ^ (1 / 3)\n");
@@ -177,5 +177,6 @@ printf("\nInvalid Choice!");
 getch();
 return 0;
 }
+
 
 // This code is taken from www.codescope.com and we have made few changes in it as per our use
