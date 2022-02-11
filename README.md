@@ -7,4 +7,5 @@ Thank You
 **Badeges**
 https://app.codiga.io/public/project/31015/M1_Scientific_Calculator/dashboard
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e75128e1c1a54bd7b7bf1ad1eaa1fe78)](https://www.codacy.com/gh/tanmaypadhi08/M1_Scientific_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tanmaypadhi08/M1_Scientific_Calculator&amp;utm_campaign=Badge_Grade)
+https://img.shields.io/github/languages/code-size/tanmaypadhi08/M1_Scientific_Calculator
 Contributed By Tanmay Padhi
