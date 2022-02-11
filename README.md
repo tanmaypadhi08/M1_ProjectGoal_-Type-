@@ -5,7 +5,9 @@ U can check the various features available in the code.
 Thank You
 
 Badeges
-https://api.codiga.io/project/31015/score/svg
+<a href="https://app.codiga.io/public/user/github/tanmaypadhi08">
+   <img src="https://api.codiga.io/public/badge/user/github/tanmaypadhi08?style=light" alt="codiga badge" />
+</a>
 
 
 Contributed By Tanmay Padhi
