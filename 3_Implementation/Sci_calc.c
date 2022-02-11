@@ -47,8 +47,14 @@ printf("Enter X: ");
 scanf("%f", &x);
 printf("\nEnter Y: ");
 scanf("%f", &y);
+    if(y=0)
+    {
+    printf("Invalid");
+    }
 result = x / y;
-printf("\nResult: %f", result);
+    else
+    {printf("\nResult: %f", result);
+    }
 break;
 case 5:
 printf("Enter X: ");
