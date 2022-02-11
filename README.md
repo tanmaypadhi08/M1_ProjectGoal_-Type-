@@ -5,7 +5,7 @@ U can check the various features available in the code.
 Thank You
 
 Badeges
-https://api.codiga.io/project/31011/score/svg
+https://api.codiga.io/project/31011/status/svg
 
 
 Contributed By Tanmay Padhi
