@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"cal.h"
+#include"sci_calc.h"
 
 extern int test();
 
