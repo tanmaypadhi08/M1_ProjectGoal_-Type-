@@ -10,4 +10,6 @@ https://app.codiga.io/public/project/31015/M1_Scientific_Calculator/dashboard
 
 https://api.codiga.io/project/31015/score/svg
 
+https://api.codiga.io/project/31015/status/svg
+
 Contributed By Tanmay Padhi
