@@ -6,3 +6,5 @@ Codacy - [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e75128e1c1a
 
 Codiga Batch  - https://api.codiga.io/project/31486/status/svg
 
+https://app.codiga.io/public/project/31486/M1_Scientific_Calculator_Util/dashboard
+
