@@ -20,21 +20,22 @@ The slower growth in technological innovation will also bring a significant thre
 
 # HIGH LEVEL REQUIREMENTS
 
-# HLR1
+HLR1
 User is able to viewe operation list
 
-# HLR2
+HLR2
 User is able to select the operation
 
-# HLR3
+HLR3
 The system should able perform the given operation
 
 
 # LOW LEVEL REQUIREMENTS
-# LLR1
+
+LLR1
 Takes only interger as input value. Doesn'e consider float variables
 
-# LLR2
+LLR2
 One option only perform single operation and you can only perform next operation when the previous operation is completed
 
 
