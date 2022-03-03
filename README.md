@@ -20,3 +20,6 @@ Codiga Batch  - https://api.codiga.io/project/31486/status/svg
 [![cppcheck-action](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/Static-cpp.yml/badge.svg)](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/Static-cpp.yml)
 
 
+
+
+
