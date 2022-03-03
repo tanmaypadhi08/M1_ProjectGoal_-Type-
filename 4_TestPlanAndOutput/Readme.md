@@ -15,19 +15,19 @@ Flow of jumping from one function to other. For invalid input exit the function 
 # LL1
 For addition function, input and output both are int type. The float input value will not generate desired result instead it will give output in integer type only.
 
-# LL1
+# LL2
 For subtraction function, input and output both are int type. The float input value will not generate desired result instead it will give output in integer type only.
 
-# LL1
+# LL3
 For multiplication function, input and output both are int type. The float input value will not generate desired result instead it will give output in integer type only.
 
-# LL1
+# LL4
 For division function, input and output both are int type. The float input value will not generate desired result instead it will give output in integer type only.
 
-# LL1
+# LL5
 For modulous function, input and output both are int type. The float input value will not generate desired result instead it will give output in integer type only.
 
-# LL1
+# LL6
 For factorial function, input and output both are int type. The float input value will not generate desired result instead it will give output in integer type only.
 
 
