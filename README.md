@@ -6,5 +6,7 @@ Codacy - [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e75128e1c1a
 
 Codiga Batch  - https://api.codiga.io/project/31486/status/svg
 
+[![Codacy Security Scan](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/codacy.yml/badge.svg)](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/codacy.yml)
+
 
 
