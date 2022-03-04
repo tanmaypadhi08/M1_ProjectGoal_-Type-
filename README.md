@@ -12,6 +12,7 @@ Codacy -
 [![Build-linux](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/Build-Linux.yml)
 
 Codiga Badge  - https://api.codiga.io/project/31486/status/svg
+
 Codiga Score  - https://api.codiga.io/project/31486/score/svg
 
 [![Contribution Check - Git Inspector](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/codeinspector.yml)
