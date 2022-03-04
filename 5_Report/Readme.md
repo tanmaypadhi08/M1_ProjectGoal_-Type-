@@ -24,6 +24,7 @@ THREATS
 
 The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
+# REQUIREMENTS
 
 # HIGH LEVEL REQUIREMENTS
 
@@ -44,6 +45,8 @@ Takes only interger as input value. Doesn'e consider float variables
 
 LLR2
 One option only perform single operation and you can only perform next operation when the previous operation is completed
+
+# TEST PLAN AND OUTPUT
 
 # High Level Test Plan
 
