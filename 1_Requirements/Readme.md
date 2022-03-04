@@ -16,7 +16,6 @@ THREATS
 
 The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
-
 # HIGH LEVEL REQUIREMENTS
 
 HLR1
@@ -27,7 +26,6 @@ User is able to select the operation
 
 HLR3
 The system should able perform the given operation
-
 
 # LOW LEVEL REQUIREMENTS
 
