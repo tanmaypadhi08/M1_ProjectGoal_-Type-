@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @author Tanmay Padhi
+ * @brief main file
+ * @version 0.1
+ * @date 2022-03-04
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 int addition();
 int subtraction();
@@ -16,7 +26,10 @@ int main() {
 
 
  switch (choice) {
-
+/**
+ * @brief This case is for addition function
+ * 
+ */
     case 1:
       printf("Enter two number");
       scanf("%d %d",&n1,&n2);
@@ -25,18 +38,30 @@ int main() {
       
       printf("answer=%d",ans);
       break;
+/**
+ * @brief This case is for subtraction operation
+ * 
+ */
     case 2:
      printf("Enter two number");
       scanf("%d %d",&n1,&n2);
       ans=subtraction(n1,n2); 
       printf("answer=%d",ans);
       break;
+/**
+ * @brief This case is for multiplication operation
+ * 
+ */
     case 3:
       printf("Enter two number");
       scanf("%d %d",&n1,&n2);
       ans = multiplication(n1,n2);  
       printf("answer=%d",ans);
       break;
+/**
+ * @brief This case is for division operation
+ * 
+ */
     case 4:
       printf("Enter two number");
       scanf("%d %d",&n1,&n2);
@@ -44,12 +69,20 @@ int main() {
      printf("answer=%d",ans);
 
       break;
+/**
+ * @brief This case is for modulous operation
+ * 
+ */
     case 5: 
         printf("Enter two number");
         scanf("%d %d",&n1,&n2);
        ans= modulus(n1,n2);  
        printf("answer=%d",ans);
-        break;  
+        break;
+/**
+ * @brief This case is for power operation
+ * 
+ */
     case 6: 
         printf("\nEnter two numbers to find the power \n");
         printf("number: ");
@@ -60,6 +93,10 @@ int main() {
        ans= power(n1,n2);
           printf("answer=%d",ans);
         break;  
+/**
+ * @brief This case is for factorial operation
+ * 
+ */
     case 7: 
         printf("\nEnter a number to find factorial : ");
         scanf("%d",&n1);
