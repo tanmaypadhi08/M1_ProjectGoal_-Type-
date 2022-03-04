@@ -19,7 +19,6 @@ Codiga Score  - https://api.codiga.io/project/31486/score/svg
 
 [![cppcheck-action](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/Static-cpp.yml/badge.svg)](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/Static-cpp.yml)
 
-[![Valgrind](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/tanmaypadhi08/M1_Scientific_Calculator_Util/actions/workflows/Valgrind.yml)
 
 # Reference
 https://www.youtube.com/watch?v=GAdOH9DNRXs
